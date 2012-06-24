@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+	<modelVersion>4.0.0</modelVersion>
+
+	<parent>
+		<relativePath>../de.vogella.e4.rcp.wizard/pom.xml</relativePath>
+		<groupId>com.vogella</groupId>
+		<artifactId>parent</artifactId>
+		<version>1.0.0-SNAPSHOT</version>
+	</parent>
+
+	<artifactId>com.example.e4.rcp.todo.feature</artifactId>
+	<packaging>eclipse-feature</packaging>
+
+	<name>Tycho Test Build</name>
+</project>
