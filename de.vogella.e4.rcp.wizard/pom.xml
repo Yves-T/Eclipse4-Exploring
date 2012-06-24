@@ -8,6 +8,7 @@
 	<modules>
 		<module>../com.example.e4.rcp.todo</module>
 		<module>../com.example.e4.rcp.todo.feature</module>
+		<module>../com.example.e4.rcp.todo.test</module>
 	</modules>
 
 	<properties>
